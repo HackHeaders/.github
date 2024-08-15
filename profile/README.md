@@ -13,8 +13,9 @@
 
 - <b> Jonatas Silva Peraza</b>
 
-- <b> Ruan Miguel Andrade Da Silva</b>
+- <b> Pedo Henrique Malaquias </b>
 
+- <b> Ruan Miguel Andrade Da Silva</b>
 
 ## Links Uteis
 
