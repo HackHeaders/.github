@@ -12,7 +12,7 @@
 
 - <b> Jonatas Silva Peraza</b>
 
-- <b> Pedo Henrique Malaquias </b>
+- <b> Pedro Henrique Malaquias </b>
 
 - <b> Ruan Miguel Andrade Da Silva</b>
 
