@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:03E278,100:9fdd9a&height=120&section=header"/>
 
 # ☠️ Fex ☠️
 
@@ -22,4 +22,4 @@
 - [Fluxogramas](https://www.figma.com/board/bnM0RT3kLC5TcIZhUENYtr/Fluxograma-Project?node-id=0-1&t=nADExVuHWB9JEAvM-0)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:03E278,100:9fdd9a&height=120&section=footer"/>
