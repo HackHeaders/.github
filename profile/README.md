@@ -2,9 +2,12 @@
 
 # ☠️ Fex ☠️
 
-## Participantes
+A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas tendo seu foco em facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto na comunicação com os motoristas atribuidos sendo simples para receber pedidos e se comunicar com o cliente. Os clientes tambem tem uma enorme facilidade para ver o status do seu pedido e receber informaçoes sobre a viagem do seu pedido. Assim a FEX projeta se expandir para ajudar a cada vez mais pessoas e sempre visando o bem estar dos clientes e dos seus funcionários.
+
+## Membros
 
 - <b> Anthony Loche Dos Reis</b>
+<td align="center"><a href="http://twitter.com/rafaelpimpa"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/><br /><sub><b>Anthony Loche dos Reis</b></sub></a><br /><a href="https://github.com/AnthonyLoche" title="BackEnd"></a>  </td>
 
 - <b> Gabriel Henrique Pereira</b>
 
