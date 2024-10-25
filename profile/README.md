@@ -7,7 +7,7 @@ A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motor
 ## Membros
 
 - <b> Anthony Loche Dos Reis</b>
-<td align="center"><a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/><br /><sub><b>Anthony Loche dos Reis</b></sub></a><br /><a href="https://github.com/AnthonyLoche" ></a> <img></img> </td>
+<td align="center"><a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/><br /><sub><b>Anthony Loche dos Reis</b></sub></a><br /><a href="https://github.com/AnthonyLoche" ></a> <img src="/pictures/instagram.png" width="25px;" > </td>
 
 - <b> Gabriel Henrique Pereira</b>
 
