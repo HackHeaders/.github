@@ -5,20 +5,27 @@
 A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas tendo seu foco em facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto na comunicação com os motoristas atribuidos sendo simples para receber pedidos e se comunicar com o cliente. Os clientes tambem tem uma enorme facilidade para ver o status do seu pedido e receber informaçoes sobre a viagem do seu pedido. Assim a FEX projeta se expandir para ajudar a cada vez mais pessoas e sempre visando o bem estar dos clientes e dos seus funcionários.
 
 ## Membros
+<table>
 
-- <b> Anthony Loche Dos Reis</b>
-<td align="center"> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/><br /><sub><b>Anthony Loche dos Reis</b></sub></a> <br />  > <a href="https://github.com/AnthonyLoche" ></a> <img src="/pictures/instagram.png" width="25px;" >  </td>
-<img src="/pictures/github-logo.png" width="25px;"
-- <b> Gabriel Henrique Pereira</b>
+<td align="center">
+  - <b> Anthony Loche Dos Reis</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/> <br /><sub>     <img src="/pictures/github-logo.png" width="25px;" />   <b>Anthony Loche dos Reis</b></sub></a> <br />    <a href="https://github.com/AnthonyLoche" ></a> </p> <p> <img src="/pictures/instagram.png" width="25px;" > @4nthony_lch </p></td>
 
-- <b> Henrique Vogelsanger</b>
 
-- <b> Jonatas Silva Peraza</b>
+ <td align="center"> - <b> Gabriel Henrique Pereira</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/131368615?v=4" width="80px;" alt=""/><br /><sub>  <img src="/pictures/github-logo.png" width="25px;" />  <b>Gabriel Henrique Pereira</b></sub></a><br /> <a href=https://github.com/PedroHenmalaquias ></a> </p> <p> <img src="/pictures/instagram.png" width="25px;" > @gabriel.gh7 </p></td>
 
-- <b> Pedro Henrique Malaquias </b>
+ 
+<td align="center"> 
+- <b> Henrique Vogelsanger</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/131290336?v=4" width="80px;" alt=""/> <br /><sub>     <img src="/pictures/github-logo.png" width="25px;" />   <b>Anthony Loche dos Reis</b></sub></a> <br />    <a href="https://github.com/AnthonyLoche" ></a> </p> <p> <img src="/pictures/instagram.png" width="25px;" > @henriquevogelsanger </p></td>
 
-- <b> Ruan Miguel Andrade Da Silva</b>
+<td align="center">
+ - <b> Jonatas Silva Peraza</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt=""/> <br /><sub>     <img src="/pictures/github-logo.png" width="25px;" />   <b>Anthony Loche dos Reis</b></sub></a> <br />    <a href="https://github.com/AnthonyLoche" ></a> </p> <p> <img src="/pictures/instagram.png" width="25px;" > @jonatasperaza </p></td>
 
+<td align="center">
+  - <b> Pedro Henrique Malaquias </b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt=""/> <br /><sub>     <img src="/pictures/github-logo.png" width="25px;" />   <b>Anthony Loche dos Reis</b></sub></a> <br />    <a href="https://github.com/AnthonyLoche" ></a> </p> <p> <img src="/pictures/instagram.png" width="25px;" > @o_pedrohen </p></td>
+
+<td align="center">
+  - <b> Ruan Miguel Andrade Da Silva</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/131881948?v=4" width="80px;" alt=""/> <br /><sub>     <img src="/pictures/github-logo.png" width="25px;" />   <b>Anthony Loche dos Reis</b></sub></a> <br />    <a href="https://github.com/AnthonyLoche" ></a> </p> <p> <img src="/pictures/instagram.png" width="25px;" > @ruan_megule </p></td>
+</table>
 ## Links Uteis
 
 - [Figma](https://www.figma.com/design/UJZ08ak8KJpU1vL9EcdwOW/HackHeaders?node-id=0-1&t=6hxijaNYz83NjUAr-0)
