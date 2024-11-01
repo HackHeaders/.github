@@ -5,8 +5,11 @@
 A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas tendo seu foco em facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto na comunicação com os motoristas atribuidos sendo simples para receber pedidos e se comunicar com o cliente. Os clientes tambem tem uma enorme facilidade para ver o status do seu pedido e receber informaçoes sobre a viagem do seu pedido. Assim a FEX projeta se expandir para ajudar a cada vez mais pessoas e sempre visando o bem estar dos clientes e dos seus funcionários.
 
 ## Membros
-<table>
 
+<div align="center">
+
+<table>
+<tr>
 <td align="center">
    <b> Anthony Loche Dos Reis</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/> <br><p>
 
@@ -33,7 +36,8 @@ A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motor
 [<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/HenriqueVogelsanger)[<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/henriquevogelsanger/) 
 
 </td>
-
+</tr>
+<tr>
 <td align="center">
   <b> Jonatas Silva Peraza</b> <br> <a href="https://github.com/jonatasperaza"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt=""/> <br>
 <p>
@@ -57,8 +61,9 @@ A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motor
   [<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/rumians)  [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/ruan_megule/)
   </p>
  </td>
-  
+ </tr> 
 </table>
+</div>
 
 ## Repositorios
 - [FrontEnd](https://github.com/HackHeaders/FrontEnd) 🖥️
@@ -73,8 +78,8 @@ Ferramentas Utilizadas:<br>
 <img src="/pictures/Figma.png" width="25px;">
 <img src="/pictures/django.png" width="25px;">
 <img src="/pictures/vue-js-icon.png" width="25px;">
-<img src="/pictures/rabbit.png" width="25px;">
 <img src="/pictures/sass.png" width="25px;">
+<img src="/pictures/rabbit.png" width="25px;">
 ## Links Uteis
 
 - [Figma](https://www.figma.com/design/UJZ08ak8KJpU1vL9EcdwOW/HackHeaders?node-id=0-1&t=6hxijaNYz83NjUAr-0)
