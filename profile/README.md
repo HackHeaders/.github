@@ -69,6 +69,11 @@ A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motor
 
 - [Documentation-Models](https://github.com/HackHeaders/Documentation-Models) 📚
 
+Ferramentas Utilizadas:<br>
+<img src="/pictures/Figma.png" width="25px;">
+<img src="/pictures/django.png" width="25px;">
+<img src="/pictures/vue-js-icon.png" width="25px;">
+<img src="/pictures/rabbit.png" width="25px;">
 ## Links Uteis
 
 - [Figma](https://www.figma.com/design/UJZ08ak8KJpU1vL9EcdwOW/HackHeaders?node-id=0-1&t=6hxijaNYz83NjUAr-0)
