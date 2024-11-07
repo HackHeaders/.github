@@ -2,7 +2,7 @@
 
 # ☠️ Fex ☠️
 
-A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas tendo seu foco em facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto na comunicação com os motoristas atribuidos sendo simples para receber pedidos e se comunicar com o cliente. Os clientes tambem tem uma enorme facilidade para ver o status do seu pedido e receber informaçoes sobre a viagem do seu pedido. Assim a FEX projeta se expandir para ajudar a cada vez mais pessoas e sempre visando o bem estar dos clientes e dos seus funcionários.
+A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas tendo seu foco em facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto nos pedidos com os motoristas atribuidos sendo simples para o cliente realizar o pedido. Os clientes tambem tem uma enorme facilidade para ver o status do seu pedido e receber informaçoes sobre a viagem do seu pedido. Assim a FEX projeta se expandir para ajudar a cada vez mais pessoas e sempre visando o bem estar dos clientes e dos seus funcionários.
 
 ## Membros
 
