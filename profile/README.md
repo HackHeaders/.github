@@ -1,8 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=header"/>
 
-#  Fex Company
+# FEX Company
 
-A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas tendo seu foco em facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto nos pedidos com os motoristas atribuidos sendo simples para o cliente realizar o pedido. Os clientes tambem tem uma enorme facilidade para ver o status do seu pedido e receber informaçoes sobre a viagem do seu pedido. Assim a FEX projeta se expandir para ajudar a cada vez mais pessoas e sempre visando o bem estar dos clientes e dos seus funcionários.
+A **FEX Company** é uma empresa do ramo de transportes que gerencia pedidos e motoristas, focando em facilitar o processo de entrega e recebimento de produtos. Nosso objetivo é oferecer praticidade e conforto aos clientes, tornando simples a realização de pedidos e o acompanhamento do status das entregas. 
+
+Os clientes têm acesso fácil a informações sobre suas encomendas e detalhes das viagens, promovendo transparência e confiabilidade. Com esses princípios, a **FEX Company** busca expandir seus serviços para ajudar ainda mais pessoas, sempre priorizando o bem-estar de seus clientes e colaboradores.
+
+---
 
 ## Membros
 
@@ -11,79 +15,83 @@ A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motor
 <table>
 <tr>
 <td align="center">
-   <b> Anthony Loche Dos Reis</b> <br> <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt=""/> <br><p>
-
-
-   [<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/AnthonyLoche)   [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/4nthony_lch/) 
-    
-  
-  </td>
-
-
- <td align="center">
-    <b> Gabriel Henrique Pereira</b> <br> <a href="https://github.com/GabrielHenrique1784"><img src="https://avatars.githubusercontent.com/u/131368615?v=4" width="80px;" alt=""/<br>
-<p>
-     
-  [<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/GabrielHenrique1784) [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/gabriel.gh7/)  
-   
-   
-   </td>
-
-<td align="center"> 
- <b> Henrique Vogelsanger</b> <br> <a href="https://github.com/HenriqueVogelsanger"><img src="https://avatars.githubusercontent.com/u/131290336?v=4" width="80px;" alt=""/> <br> 
-<p>
-
-[<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/HenriqueVogelsanger)[<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/henriquevogelsanger/) 
-
+   <b>Anthony Loche Dos Reis</b> <br>
+   <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt="Anthony Loche"/></a>
+   <p>
+       [<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/AnthonyLoche)   [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/4nthony_lch/)
+   </p>
+</td>
+<td align="center">
+   <b>Gabriel Henrique Pereira</b> <br>
+   <a href="https://github.com/GabrielHenrique1784"><img src="https://avatars.githubusercontent.com/u/131368615?v=4" width="80px;" alt="Gabriel Henrique"/></a>
+   <p>
+      [<img src="/pictures/github-logo.png" width="25px;" alt="GitHub">](https://github.com/GabrielHenrique1784) [<img src="/pictures/instagram.png" width="25px;" alt="Instagram">](https://www.instagram.com/gabriel.gh7/)
+   </p>
+</td>
+<td align="center">
+   <b>Henrique Vogelsanger</b> <br>
+   <a href="https://github.com/HenriqueVogelsanger"><img src="https://avatars.githubusercontent.com/u/131290336?v=4" width="80px;" alt="Henrique Vogelsanger"/></a>
+   <p>
+      [<img src="/pictures/github-logo.png" width="25px;" alt="GitHub">](https://github.com/HenriqueVogelsanger)
+      [<img src="/pictures/instagram.png" width="25px;" alt="Instagram">](https://www.instagram.com/henriquevogelsanger/)
+   </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <b> Jonatas Silva Peraza</b> <br> <a href="https://github.com/jonatasperaza"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt=""/> <br>
-<p>
-
-[<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/jonatasperaza) [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/jonatasperaza/) 
- 
- </td>
-
+   <b>Jonatas Silva Peraza</b> <br>
+   <a href="https://github.com/jonatasperaza"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt="Jonatas Silva Peraza"/></a>
+   <p>
+      [<img src="/pictures/github-logo.png" width="25px;" alt="GitHub">](https://github.com/jonatasperaza)
+      [<img src="/pictures/instagram.png" width="25px;" alt="Instagram">](https://www.instagram.com/jonatasperaza/)
+   </p>
+</td>
 <td align="center">
-   <b> Pedro Henrique Malaquias </b> <br> <a href="https://github.com/PedroHenmalaquias"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt=""/> <br>
-<p>
-
-[<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/PedroHenmalaquias)  [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/o_pedrohen/) 
-  
-  </td>
-
+   <b>Pedro Henrique Malaquias</b> <br>
+   <a href="https://github.com/PedroHenmalaquias"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt="Pedro Malaquias"/></a>
+   <p>
+      [<img src="/pictures/github-logo.png" width="25px;" alt="GitHub">](https://github.com/PedroHenmalaquias)
+      [<img src="/pictures/instagram.png" width="25px;" alt="Instagram">](https://www.instagram.com/o_pedrohen/)
+   </p>
+</td>
 <td align="center">
-   <b> Ruan Miguel Andrade Da Silva</b> <br> <a href="https://github.com/rumians"><img src="https://avatars.githubusercontent.com/u/131881948?v=4" width="80px;" alt=""/> <br>
-<p>
-
-  [<img src="/pictures/github-logo.png" width="25px;" >](https://github.com/rumians)  [<img src="/pictures/instagram.png" width="25px;" >](https://www.instagram.com/ruan_megule/)
-  </p>
- </td>
- </tr> 
+   <b>Ruan Miguel Andrade Da Silva</b> <br>
+   <a href="https://github.com/rumians"><img src="https://avatars.githubusercontent.com/u/131881948?v=4" width="80px;" alt="Ruan Miguel"/></a>
+   <p>
+      [<img src="/pictures/github-logo.png" width="25px;" alt="GitHub">](https://github.com/rumians)
+      [<img src="/pictures/instagram.png" width="25px;" alt="Instagram">](https://www.instagram.com/ruan_megule/)
+   </p>
+</td>
+</tr>
 </table>
+
 </div>
 
-## Repositorios
-- [FrontEnd](https://github.com/HackHeaders/FrontEnd) 🖥️
+---
 
-  
-- [BackEnd](https://github.com/HackHeaders/Backend) ⚙️
+## Repositórios
 
+- [FrontEnd](https://github.com/HackHeaders/FrontEnd) 🖥️  
+- [BackEnd](https://github.com/HackHeaders/Backend) ⚙️  
+- [Documentation-Models](https://github.com/HackHeaders/Documentation-Models) 📚  
 
-- [Documentation-Models](https://github.com/HackHeaders/Documentation-Models) 📚
+---
 
-Ferramentas Utilizadas:<br>
-<img src="/pictures/Figma.png" width="25px;">
-<img src="/pictures/django.png" width="25px;">
-<img src="/pictures/vue-js-icon.png" width="25px;">
-<img src="/pictures/sass.png" width="25px;">
-<img src="/pictures/rabbit.png" width="25px;">
-## Links Uteis
+## Ferramentas Utilizadas
 
-- [Figma](https://www.figma.com/design/UJZ08ak8KJpU1vL9EcdwOW/HackHeaders?node-id=0-1&t=6hxijaNYz83NjUAr-0)
-- [Fluxogramas](https://www.figma.com/board/bnM0RT3kLC5TcIZhUENYtr/Fluxograma-Project?node-id=0-1&t=nADExVuHWB9JEAvM-0)
+<div>
+   <img src="/pictures/Figma.png" width="30px;" alt="Figma">
+   <img src="/pictures/django.png" width="30px;" alt="Django">
+   <img src="/pictures/vue-js-icon.png" width="30px;" alt="Vue.js">
+   <img src="/pictures/sass.png" width="30px;" alt="SASS">
+   <img src="/pictures/rabbit.png" width="30px;" alt="RabbitMQ">
+</div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=footer"/>
+## Links Úteis
+
+- [Figma](https://www.figma.com/design/UJZ08ak8KJpU1vL9EcdwOW/HackHeaders?node-id=0-1&t=6hxijaNYz83NjUAr-0)  
+- [Fluxogramas](https://www.figma.com/board/bnM0RT3kLC5TcIZhUENYtr/Fluxograma-Project?node-id=0-1&t=nADExVuHWB9JEAvM-0)  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=footer"/>
